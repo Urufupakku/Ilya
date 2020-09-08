@@ -1,0 +1,25 @@
+10 element
+yandex.ru
+<================>
+soa=ns1.yandex.ru. sysadmin.yandex-team.ru. 2020090420 600 300 2592000 900
+ a=5.255.255.77 77.88.55.77 5.255.255.70 77.88.55.70
+ ns=ns9.z5h64q92x9.net. ns2.yandex.ru. ns1.yandex.ru.
+mx=10 mx.yandex.ru.
+ txt="facebook-domain-verification=e750ewnqm68u4f83wvp6qp7iiphkj0" "c2bddd1060afe4c05f9c9c97e34b90537c3045e31475bd547f982071dbe2a32b" "v=spf1 redirect=_spf.yandex.ru" "mailru-verification: 530c425b1458283e" "google-site-verification=XyQDB5000-0rTv33yw7AX-EiuH1v5yW5PjkYeYxxPEg" "MS=ms75457885" "2e35680fa5ac784cf58deca180385b5eff74dfeb831c2d73830425e8a8deb7d5" "_globalsign-domain-verification=lD5-OgV_QE93G8rzNaeJKvtqe9tlP5AZtyDodrldYh" "have-i-been-pwned-verification=13c7b50cd0b12f85dabe796e6178fb74"
+<================>
+google.com
+<================>
+soa=ns1.google.com. dns-admin.google.com. 329677396 900 900 1800 60
+ a=64.233.164.102 64.233.164.101 64.233.164.138 64.233.164.139 64.233.164.100 64.233.164.113
+ ns=ns1.google.com. ns4.google.com. ns3.google.com. ns2.google.com.
+mx=50 alt4.aspmx.l.google.com. 40 alt3.aspmx.l.google.com. 20 alt1.aspmx.l.google.com. 10 aspmx.l.google.com. 30 alt2.aspmx.l.google.com.
+ txt="facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95" "v=spf1 include:_spf.google.com ~all" "docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e" "docusign=1b0a6754-49b1-4db5-8540-d2c12664b289" "globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8="
+<================>
+vk.com
+<================>
+soa=ns1.vkontakte.ru. ncc.vk.com. 2020032408 900 600 604800 900
+ a=87.240.190.72 87.240.190.78 93.186.225.208 87.240.139.194 87.240.137.158 87.240.190.67 87.240.190.78 93.186.225.208 87.240.139.194 87.240.137.158 87.240.190.67 87.240.190.72
+ ns=87.240.190.67 87.240.190.72 87.240.190.78 93.186.225.208 87.240.139.194 87.240.137.158 ns3.vkontakte.ru. ns4.vkontakte.ru. ns1.vkontakte.ru. ns2.vkontakte.ru.
+mx=87.240.190.72 87.240.190.78 93.186.225.208 87.240.139.194 87.240.137.158 87.240.190.67 0 mx.vk.com. 20 mx2.vk.com.
+ txt=93.186.225.208 87.240.139.194 87.240.137.158 87.240.190.67 87.240.190.72 87.240.190.78 "yandex-verification: 5272a4ebac9953a9" "google-site-verification=bQE4SQUYC7KTvk4XCaMdwF0e_tj-O-6ZXMfXW2a8mHY" "v=spf1 ip4:93.186.224.0/20 ip4:87.240.128.0/18 ip4:95.142.192.0/21 mx include:_spf.google.com -all"
+<================>

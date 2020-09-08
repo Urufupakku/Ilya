@@ -1,0 +1,41 @@
+10 element
+yandex.ru
+<================>
+	 ns1.yandex.ru. sysadmin.yandex-team.ru. 2020090543 600 300 2592000 900 
+A= 	 77.88.55.55 5.255.255.55 5.255.255.60 77.88.55.60
+NS= 	  ns1.yandex.ru.  ns9.z5h64q92x9.net.  ns2.yandex.ru.
+MX= 	  10 mx.yandex.ru.
+TXT= 	 530c425b1458283e"  "have-i-been-pwned-verification=13c7b50cd0b12f85dabe796e6178fb74"  "google-site-verification=XyQDB5000-0rTv33yw7AX-EiuH1v5yW5PjkYeYxxPEg"  "_globalsign-domain-verification=lD5-OgV_QE93G8rzNaeJKvtqe9tlP5AZtyDodrldYh"
+PTR= 	55.55.88.77.in-addr.arpa domain name pointer yandex.ru.
+PTR= 	55.255.255.5.in-addr.arpa domain name pointer yandex.ru.
+PTR= 	60.255.255.5.in-addr.arpa domain name pointer yandex.ru.
+PTR= 	60.55.88.77.in-addr.arpa domain name pointer yandex.ru.
+<================>
+google.com
+<================>
+	 ns1.google.com. dns-admin.google.com. 329883477 900 900 1800 60 
+A= 	 64.233.164.102 64.233.164.100 64.233.164.138 64.233.164.139 64.233.164.113 64.233.164.101
+NS= 	  ns1.google.com.  ns4.google.com.  ns2.google.com.  ns3.google.com.
+MX= 	  50 alt4.aspmx.l.google.com.  10 aspmx.l.google.com.  30 alt2.aspmx.l.google.com.  40 alt3.aspmx.l.google.com.  20 alt1.aspmx.l.google.com.
+TXT= 	_spf.google.com ~all"  "docusign=1b0a6754-49b1-4db5-8540-d2c12664b289"  "facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95"
+PTR= 	102.164.233.64.in-addr.arpa domain name pointer lf-in-f102.1e100.net.
+PTR= 	100.164.233.64.in-addr.arpa domain name pointer lf-in-f100.1e100.net.
+PTR= 	138.164.233.64.in-addr.arpa domain name pointer lf-in-f138.1e100.net.
+PTR= 	139.164.233.64.in-addr.arpa domain name pointer lf-in-f139.1e100.net.
+PTR= 	113.164.233.64.in-addr.arpa domain name pointer lf-in-f113.1e100.net.
+PTR= 	101.164.233.64.in-addr.arpa domain name pointer lf-in-f101.1e100.net.
+<================>
+vk.com
+<================>
+	 ns1.vkontakte.ru. ncc.vk.com. 2020090401 900 600 604800 900 
+A= 	 87.240.190.67 87.240.190.72 87.240.190.78 93.186.225.208 87.240.139.194 87.240.137.158
+NS= 	  ns4.vkontakte.ru.  ns1.vkontakte.ru.  ns2.vkontakte.ru.  ns3.vkontakte.ru.
+MX= 	  20 mx2.vk.com.  0 mx.vk.com.
+TXT= 	 5272a4ebac9953a9"
+PTR= 	67.190.240.87.in-addr.arpa domain name pointer srv67-190-240-87.vk.com.
+PTR= 	72.190.240.87.in-addr.arpa domain name pointer srv72-190-240-87.vk.com.
+PTR= 	78.190.240.87.in-addr.arpa domain name pointer srv78-190-240-87.vk.com.
+PTR= 	208.225.186.93.in-addr.arpa has no PTR record
+PTR= 	194.139.240.87.in-addr.arpa domain name pointer srv194-139-240-87.vk.com.
+PTR= 	158.137.240.87.in-addr.arpa domain name pointer srv158-137-240-87.vk.com.
+<================>
