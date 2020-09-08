@@ -1,3 +1,5 @@
 git add .
 git commit -ma
 git push origin master
+git fetch
+git checkout origin/master -- path/file
