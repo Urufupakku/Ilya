@@ -1,0 +1,76 @@
+{
+  "ip": "2.16.107.114",
+  "hostname": "a2-16-107-114.deploy.static.akamaitechnologies.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "org": "AS20940 Akamai International B.V.",
+  "postal": "60311",
+  "timezone": "Europe/Berlin",
+  "company": {
+    "name": "Akamai Technologies",
+    "domain": "akamai.com",
+    "type": "isp"
+  }
+}
+{
+  "ip": "1.2.3.4",
+  "city": "Brisbane",
+  "region": "Queensland",
+  "country": "AU",
+  "loc": "-27.4679,153.0281",
+  "postal": "4000",
+  "timezone": "Australia/Brisbane",
+  "company": {
+    "name": "APNIC Debogon Project",
+    "domain": "",
+    "type": "business"
+  }
+}
+{
+  "ip": "1.221.254.82",
+  "city": "Seoul",
+  "region": "Seoul",
+  "country": "KR",
+  "loc": "37.5660,126.9784",
+  "org": "AS3786 LG DACOM Corporation",
+  "postal": "03186",
+  "timezone": "Asia/Seoul",
+  "company": {
+    "name": "LG DACOM Corporation",
+    "domain": "dacom.co.kr",
+    "type": "isp"
+  }
+}
+{
+  "ip": "101.99.91.189",
+  "city": "Putrajaya",
+  "region": "Putrajaya",
+  "country": "MY",
+  "loc": "2.9353,101.6911",
+  "org": "AS45839 Shinjiru Technology Sdn Bhd",
+  "postal": "62522",
+  "timezone": "Asia/Kuala_Lumpur",
+  "company": {
+    "name": "Shinjiru Technology Sdn Bhd",
+    "domain": "shinjiru.com.my",
+    "type": "hosting"
+  }
+}
+{
+  "ip": "103.106.236.83",
+  "hostname": "103-106-236-83.dhaka.carnival.com.bd",
+  "city": "Paltan",
+  "region": "Dhaka",
+  "country": "BD",
+  "loc": "23.7916,90.4152",
+  "org": "AS63526 Systems Solutions & development Technologies Limited",
+  "postal": "1212",
+  "timezone": "Asia/Dhaka",
+  "company": {
+    "name": "Carnival-Internet",
+    "domain": "carnival.com.bd",
+    "type": "isp"
+  }
+}
