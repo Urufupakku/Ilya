@@ -12,7 +12,7 @@ class WHOIS:
 domains = []
 res = []
 
-with open('ip.txt', 'r') as f:
+with open('domain.txt', 'r') as f:
     domains = f.read().splitlines()
     with open('output.csv', 'w') as w:
         for i in domains:
@@ -20,5 +20,6 @@ with open('ip.txt', 'r') as f:
             temp.construction(i)
             res.append(temp)  # [2.16.107.114; 1.2.3.4; 1.221.254.82; 101.99.91.189; 103.106.236.83] + результаты всех функций в классе (БОЛЬШОЙ ОБЪЕКТ)
         for i in res:
-            w.writelines(i.fields)
+            if not re.findall(r"YANDEX.RU", i.fields):
+                w.writelines(i.fields)
                 

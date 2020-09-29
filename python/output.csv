@@ -1,0 +1,43 @@
+
+mail.ru
+<=====>
+use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+domain:        MAIL.RU
+nserver:       ns1.mail.ru. 217.69.139.112
+nserver:       ns2.mail.ru. 94.100.180.138
+nserver:       ns3.mail.ru. 185.30.176.202
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           MGL Mail.ru Internet Assets Limited
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-09-27T14:33:26Z
+paid-till:     2021-09-30T21:00:00Z
+free-date:     2021-11-01
+source:        TCI
+
+vk.com
+<=====>
+Name: VK.COM
+ID: 3206186_DOMAIN_COM-VRSN
+Server: whois.nic.ru
+URL: http://nic.ru
+Date: 2020-06-20T21:13:14Z
+Date: 1997-06-24T04:00:00Z
+Date: 2021-06-23T04:00:00Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+ID: 463
+Email: tld-abuse@nic.ru
+Phone: +7 (495) 994-46-01
+Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Server: NS1.VKONTAKTE.RU
+Server: NS2.VKONTAKTE.RU
+Server: NS3.VKONTAKTE.RU
+Server: NS4.VKONTAKTE.RU
+DNSSEC: unsigned
+Form: https://www.icann.org/wicf/
+database: 2020-09-28T20:48:40Z <<<
+NOTICE: The expiration date displayed in this record is the date the
+USE: You are not authorized to access or query our Whois
+use: You agree that you may use this Data only
+to: (1) allow, enable, or otherwise support the transmission of mass
