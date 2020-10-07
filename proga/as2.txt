@@ -1,0 +1,4335 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+    "ipv4_prefixes": [
+      {
+        "prefix": "5.0.0.0/19",
+        "ip": "5.0.0.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.0.0.0/16",
+          "ip": "5.0.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.0.32.0/19",
+        "ip": "5.0.32.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.0.0.0/16",
+          "ip": "5.0.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.0.64.0/18",
+        "ip": "5.0.64.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.0.0.0/16",
+          "ip": "5.0.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.0.128.0/19",
+        "ip": "5.0.128.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.0.0.0/16",
+          "ip": "5.0.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.0.160.0/19",
+        "ip": "5.0.160.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.0.0.0/16",
+          "ip": "5.0.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.0.192.0/18",
+        "ip": "5.0.192.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.0.0.0/16",
+          "ip": "5.0.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.104.128.0/21",
+        "ip": "5.104.128.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-ZAD-20120629",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.104.128.0/21",
+          "ip": "5.104.128.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.134.200.0/21",
+        "ip": "5.134.200.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-SAMANET-20120710",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.134.200.0/21",
+          "ip": "5.134.200.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.134.224.0/19",
+        "ip": "5.134.224.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-SAMANET-20120710",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.134.224.0/19",
+          "ip": "5.134.224.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.0.0/19",
+        "ip": "5.155.0.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.32.0/19",
+        "ip": "5.155.32.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.64.0/19",
+        "ip": "5.155.64.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.96.0/19",
+        "ip": "5.155.96.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.128.0/19",
+        "ip": "5.155.128.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.160.0/19",
+        "ip": "5.155.160.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.192.0/19",
+        "ip": "5.155.192.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "5.155.224.0/19",
+        "ip": "5.155.224.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "5.155.0.0/16",
+          "ip": "5.155.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.0.0/19",
+        "ip": "31.9.0.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.32.0/20",
+        "ip": "31.9.32.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.48.0/22",
+        "ip": "31.9.48.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.64.0/18",
+        "ip": "31.9.64.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.128.0/19",
+        "ip": "31.9.128.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.160.0/19",
+        "ip": "31.9.160.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.192.0/19",
+        "ip": "31.9.192.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.9.224.0/19",
+        "ip": "31.9.224.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.9.0.0/16",
+          "ip": "31.9.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.14.164.0/22",
+        "ip": "31.14.164.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20110418",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.14.164.0/22",
+          "ip": "31.14.164.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.148.152.0/21",
+        "ip": "31.148.152.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "WAVESNET-NET",
+        "description": "Waves Internet Service Ltd.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.148.0.0/16",
+          "ip": "31.148.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "31.193.64.0/20",
+        "ip": "31.193.64.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20110427",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "31.193.64.0/20",
+          "ip": "31.193.64.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "37.48.128.0/18",
+        "ip": "37.48.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-MTN-20120124",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "37.48.128.0/18",
+          "ip": "37.48.128.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "37.48.192.0/19",
+        "ip": "37.48.192.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-MTN-20120124",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "37.48.192.0/19",
+          "ip": "37.48.192.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "45.132.196.0/22",
+        "ip": "45.132.196.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-LINET1-20190723",
+        "description": "Communication line LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "45.132.196.0/22",
+          "ip": "45.132.196.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.40.128.0/18",
+        "ip": "46.40.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-ST-20100708",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.40.128.0/18",
+          "ip": "46.40.128.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.53.0.0/18",
+        "ip": "46.53.0.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SAWAISP-ADSL",
+        "description": "SAWAISP ADSL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.53.0.0/18",
+          "ip": "46.53.0.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.53.64.0/21",
+        "ip": "46.53.64.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SAWAISP-ADSL",
+        "description": "SAWAISP ADSL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.53.64.0/21",
+          "ip": "46.53.64.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.53.72.0/21",
+        "ip": "46.53.72.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20100820",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.53.72.0/21",
+          "ip": "46.53.72.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.53.80.0/20",
+        "ip": "46.53.80.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SAWAISP-ADSL",
+        "description": "SAWAISP ADSL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.53.80.0/20",
+          "ip": "46.53.80.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.53.96.0/19",
+        "ip": "46.53.96.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SAWAISP-ADSL",
+        "description": "SAWAISP ADSL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.53.96.0/19",
+          "ip": "46.53.96.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.57.128.0/18",
+        "ip": "46.57.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.57.128.0/17",
+          "ip": "46.57.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.57.192.0/18",
+        "ip": "46.57.192.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.57.128.0/17",
+          "ip": "46.57.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.58.128.0/17",
+        "ip": "46.58.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-MTN-20101018",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.58.128.0/17",
+          "ip": "46.58.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.161.192.0/21",
+        "ip": "46.161.192.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-SAMANET-20101122",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.161.192.0/21",
+          "ip": "46.161.192.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.161.200.0/23",
+        "ip": "46.161.200.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-SAMANET",
+        "description": "SY SAMANET",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.161.200.0/23",
+          "ip": "46.161.200.0",
+          "cidr": 23,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.161.202.0/23",
+        "ip": "46.161.202.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "View-ISP",
+        "description": "View ISP",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.161.202.0/23",
+          "ip": "46.161.202.0",
+          "cidr": 23,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.161.204.0/22",
+        "ip": "46.161.204.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "View-ISP",
+        "description": "View ISP",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.161.204.0/22",
+          "ip": "46.161.204.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.213.0.0/17",
+        "ip": "46.213.0.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.213.0.0/16",
+          "ip": "46.213.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.213.0.0/18",
+        "ip": "46.213.0.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.213.0.0/16",
+          "ip": "46.213.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.213.64.0/18",
+        "ip": "46.213.64.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.213.0.0/16",
+          "ip": "46.213.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.213.128.0/17",
+        "ip": "46.213.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.213.0.0/16",
+          "ip": "46.213.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.213.128.0/18",
+        "ip": "46.213.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.213.0.0/16",
+          "ip": "46.213.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "46.213.192.0/18",
+        "ip": "46.213.192.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "46.213.0.0/16",
+          "ip": "46.213.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "77.44.128.0/17",
+        "ip": "77.44.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-SCS-NET-20061220",
+        "description": "Syrian Computer Society, scs",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "77.44.128.0/17",
+          "ip": "77.44.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "78.110.96.0/20",
+        "ip": "78.110.96.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SAWA-20070808",
+        "description": "sawa",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "78.110.96.0/20",
+          "ip": "78.110.96.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "78.155.64.0/19",
+        "ip": "78.155.64.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20070730",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "78.155.64.0/19",
+          "ip": "78.155.64.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "79.141.224.0/20",
+        "ip": "79.141.224.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20071026",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "79.141.224.0/20",
+          "ip": "79.141.224.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.97.208.0/22",
+        "ip": "82.97.208.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "Runnet",
+        "description": "Runnet",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.97.208.0/21",
+          "ip": "82.97.208.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.97.212.0/23",
+        "ip": "82.97.212.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "Runnet",
+        "description": "Runnet",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.97.208.0/21",
+          "ip": "82.97.208.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.97.214.0/23",
+        "ip": "82.97.214.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "Runnet",
+        "description": "Runnet",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.97.208.0/21",
+          "ip": "82.97.208.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.97.216.0/21",
+        "ip": "82.97.216.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-ZAD-20130221",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.97.216.0/21",
+          "ip": "82.97.216.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.100.128.0/19",
+        "ip": "82.100.128.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ST-20031222",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.100.128.0/19",
+          "ip": "82.100.128.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.100.160.0/20",
+        "ip": "82.100.160.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20031222",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.100.160.0/20",
+          "ip": "82.100.160.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.100.176.0/21",
+        "ip": "82.100.176.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20031222",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.100.176.0/21",
+          "ip": "82.100.176.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.137.192.0/20",
+        "ip": "82.137.192.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-20030710",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.137.192.0/18",
+          "ip": "82.137.192.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.137.208.0/20",
+        "ip": "82.137.208.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-20030710",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.137.192.0/18",
+          "ip": "82.137.192.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.137.224.0/20",
+        "ip": "82.137.224.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-20030710",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.137.192.0/18",
+          "ip": "82.137.192.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "82.137.240.0/20",
+        "ip": "82.137.240.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-20030710",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "82.137.192.0/18",
+          "ip": "82.137.192.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "83.150.200.0/22",
+        "ip": "83.150.200.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ISP-INTEGRATION-20181114",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "83.150.200.0/22",
+          "ip": "83.150.200.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "84.39.192.0/22",
+        "ip": "84.39.192.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INTEGRATION-ISP-20180821",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "84.39.192.0/22",
+          "ip": "84.39.192.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "88.86.0.0/20",
+        "ip": "88.86.0.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SCS-NET",
+        "description": "SCS-NET is an ISP based in Damascus Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "88.86.0.0/19",
+          "ip": "88.86.0.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "88.86.16.0/20",
+        "ip": "88.86.16.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SCS-NET",
+        "description": "SCS-NET is an ISP based in Damascus Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "88.86.0.0/19",
+          "ip": "88.86.0.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.33.56.0/21",
+        "ip": "89.33.56.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-RUNNET-20051129",
+        "description": "RUNNET LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.33.56.0/21",
+          "ip": "89.33.56.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.33.224.0/21",
+        "ip": "89.33.224.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20051129",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.33.224.0/21",
+          "ip": "89.33.224.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.34.162.0/23",
+        "ip": "89.34.162.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20051129",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.34.162.0/23",
+          "ip": "89.34.162.0",
+          "cidr": 23,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.41.138.0/23",
+        "ip": "89.41.138.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-DUNIA-ISP-20160819",
+        "description": "SY DUNIA ISP 20160819",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.41.138.0/23",
+          "ip": "89.41.138.0",
+          "cidr": 23,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.41.140.0/23",
+        "ip": "89.41.140.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20051129",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.41.140.0/22",
+          "ip": "89.41.140.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.45.128.0/22",
+        "ip": "89.45.128.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20051129",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.45.128.0/20",
+          "ip": "89.45.128.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.45.132.0/23",
+        "ip": "89.45.132.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20051129",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.45.128.0/20",
+          "ip": "89.45.128.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.45.134.0/23",
+        "ip": "89.45.134.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20051129",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.45.128.0/20",
+          "ip": "89.45.128.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.45.136.0/21",
+        "ip": "89.45.136.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20051129",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.45.128.0/20",
+          "ip": "89.45.128.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "89.47.80.0/21",
+        "ip": "89.47.80.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-SAMANET-2005-11-29",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "89.47.80.0/21",
+          "ip": "89.47.80.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "90.153.128.0/17",
+        "ip": "90.153.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-AYA-ISP-20061107",
+        "description": "AYA Internet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "90.153.128.0/17",
+          "ip": "90.153.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "91.144.0.0/20",
+        "ip": "91.144.0.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-20060919",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "91.144.0.0/18",
+          "ip": "91.144.0.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "91.144.16.0/20",
+        "ip": "91.144.16.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "91.144.0.0/18",
+          "ip": "91.144.0.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "91.144.32.0/20",
+        "ip": "91.144.32.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-20060919",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "91.144.0.0/18",
+          "ip": "91.144.0.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "91.144.48.0/20",
+        "ip": "91.144.48.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "91.144.0.0/18",
+          "ip": "91.144.0.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "92.253.224.0/21",
+        "ip": "92.253.224.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "WAVESNET-NET",
+        "description": "Waves Internet Service Ltd.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "92.253.128.0/17",
+          "ip": "92.253.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "93.113.164.0/22",
+        "ip": "93.113.164.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAMANET-20071221",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "93.113.164.0/22",
+          "ip": "93.113.164.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "93.114.208.0/21",
+        "ip": "93.114.208.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-RUNNET-20071221",
+        "description": "RUNNET LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "93.114.208.0/21",
+          "ip": "93.114.208.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "93.118.48.0/20",
+        "ip": "93.118.48.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-RUNNET-20071221",
+        "description": "RUNNET LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "93.118.48.0/20",
+          "ip": "93.118.48.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.47.0.0/18",
+        "ip": "94.47.0.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.47.0.0/17",
+          "ip": "94.47.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.47.64.0/19",
+        "ip": "94.47.64.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.47.0.0/17",
+          "ip": "94.47.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.47.96.0/19",
+        "ip": "94.47.96.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.47.0.0/17",
+          "ip": "94.47.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.47.128.0/19",
+        "ip": "94.47.128.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.47.128.0/18",
+          "ip": "94.47.128.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.47.160.0/19",
+        "ip": "94.47.160.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.47.128.0/18",
+          "ip": "94.47.128.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.47.192.0/18",
+        "ip": "94.47.192.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.47.192.0/18",
+          "ip": "94.47.192.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.102.80.0/21",
+        "ip": "94.102.80.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-ZAD-20080904",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.102.80.0/21",
+          "ip": "94.102.80.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.102.92.0/22",
+        "ip": "94.102.92.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ZAD-20080904",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.102.92.0/22",
+          "ip": "94.102.92.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.141.192.0/19",
+        "ip": "94.141.192.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-SAWA-20081215",
+        "description": "sawa",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.141.192.0/19",
+          "ip": "94.141.192.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.143.120.0/22",
+        "ip": "94.143.120.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-LINET-20180628",
+        "description": "Communication line LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.143.120.0/22",
+          "ip": "94.143.120.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.232.248.0/22",
+        "ip": "94.232.248.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAMANETPLUS-20180828",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.232.248.0/22",
+          "ip": "94.232.248.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.128.0/22",
+        "ip": "94.252.128.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "South Aera pool",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.132.0/22",
+        "ip": "94.252.132.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "South Aera pool",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.136.0/21",
+        "ip": "94.252.136.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "South Aera pool",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.144.0/20",
+        "ip": "94.252.144.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "South Aera pool",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.160.0/20",
+        "ip": "94.252.160.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.176.0/22",
+        "ip": "94.252.176.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.180.0/24",
+        "ip": "94.252.180.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.181.0/24",
+        "ip": "94.252.181.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.182.0/24",
+        "ip": "94.252.182.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.183.0/24",
+        "ip": "94.252.183.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.184.0/24",
+        "ip": "94.252.184.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.185.0/24",
+        "ip": "94.252.185.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.186.0/24",
+        "ip": "94.252.186.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.187.0/24",
+        "ip": "94.252.187.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.188.0/24",
+        "ip": "94.252.188.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SYRIATEL_TEL",
+        "description": "Syriatel Infrastructure",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.189.0/24",
+        "ip": "94.252.189.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SYRIATEL_TEL",
+        "description": "Syriatel SGSN 1",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.190.0/24",
+        "ip": "94.252.190.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SYRIATEL_TEL",
+        "description": "Syriatel SGSN 2",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.191.0/24",
+        "ip": "94.252.191.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SYRIATEL_TEL",
+        "description": "Syriatel MMSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.192.0/19",
+        "ip": "94.252.192.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.224.0/20",
+        "ip": "94.252.224.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.240.0/21",
+        "ip": "94.252.240.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.248.0/22",
+        "ip": "94.252.248.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "94.252.252.0/22",
+        "ip": "94.252.252.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "94.252.128.0/17",
+          "ip": "94.252.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.140.96.0/20",
+        "ip": "95.140.96.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ZAD-20090304",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.140.96.0/20",
+          "ip": "95.140.96.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.159.0.0/18",
+        "ip": "95.159.0.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-RUNNET-20090408",
+        "description": "RUNNET LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.159.0.0/18",
+          "ip": "95.159.0.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.0.0/18",
+        "ip": "95.212.0.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-AYA-ISP-20170918",
+        "description": "AYA Internet Service Provide",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.0.0/17",
+          "ip": "95.212.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.128.0/20",
+        "ip": "95.212.128.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20090205",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.128.0/20",
+          "ip": "95.212.128.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.144.0/20",
+        "ip": "95.212.144.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20090205",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.144.0/20",
+          "ip": "95.212.144.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.160.0/20",
+        "ip": "95.212.160.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-AYA-ISP-20090205",
+        "description": "AYA Internet Service Provider",
+        "country_code": "EG",
+        "parent": {
+          "prefix": "95.212.160.0/20",
+          "ip": "95.212.160.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.176.0/20",
+        "ip": "95.212.176.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20090205",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.176.0/20",
+          "ip": "95.212.176.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.188.0/22",
+        "ip": "95.212.188.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "ADSL",
+        "description": "ADSL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.176.0/20",
+          "ip": "95.212.176.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.192.0/20",
+        "ip": "95.212.192.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20090205",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.192.0/20",
+          "ip": "95.212.192.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.208.0/20",
+        "ip": "95.212.208.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-AYA-ISP-20090205",
+        "description": "AYA Internet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.208.0/20",
+          "ip": "95.212.208.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "95.212.224.0/20",
+        "ip": "95.212.224.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-AYA-ISP-20090205",
+        "description": "AYA Internet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "95.212.224.0/19",
+          "ip": "95.212.224.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "109.238.144.0/21",
+        "ip": "109.238.144.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "INET-ISP",
+        "description": "INET Internet Service Provider (INET)",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "109.238.144.0/20",
+          "ip": "109.238.144.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "109.238.152.0/21",
+        "ip": "109.238.152.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "INET-ISP",
+        "description": "INET Internet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "109.238.144.0/20",
+          "ip": "109.238.144.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "130.0.240.0/20",
+        "ip": "130.0.240.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-MTN-20111021",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "130.0.240.0/20",
+          "ip": "130.0.240.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "130.180.128.0/18",
+        "ip": "130.180.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-MTN-20111021",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "130.180.128.0/18",
+          "ip": "130.180.128.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "145.249.0.0/20",
+        "ip": "145.249.0.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "145.249.0.0/16",
+          "ip": "145.249.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "145.249.16.0/20",
+        "ip": "145.249.16.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "145.249.0.0/16",
+          "ip": "145.249.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "145.249.32.0/20",
+        "ip": "145.249.32.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "145.249.0.0/16",
+          "ip": "145.249.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "145.249.48.0/20",
+        "ip": "145.249.48.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "145.249.0.0/16",
+          "ip": "145.249.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "145.249.64.0/19",
+        "ip": "145.249.64.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ST",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "145.249.0.0/16",
+          "ip": "145.249.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.52.0.0/18",
+        "ip": "178.52.0.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.52.0.0/16",
+          "ip": "178.52.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.52.64.0/18",
+        "ip": "178.52.64.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "Syriatel 3G",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.52.0.0/16",
+          "ip": "178.52.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.52.128.0/18",
+        "ip": "178.52.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.52.0.0/16",
+          "ip": "178.52.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.52.192.0/18",
+        "ip": "178.52.192.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "3G Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.52.0.0/16",
+          "ip": "178.52.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.171.128.0/17",
+        "ip": "178.171.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-MTN-20100412",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.171.128.0/17",
+          "ip": "178.171.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.218.252.0/22",
+        "ip": "178.218.252.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ALNAQEL1-20180905",
+        "description": "Alnakel Co. Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.218.252.0/22",
+          "ip": "178.218.252.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.64.0/19",
+        "ip": "178.253.64.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.96.0/23",
+        "ip": "178.253.96.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ISP-190",
+        "description": "190 Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.98.0/24",
+        "ip": "178.253.98.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ISP-190",
+        "description": "190 Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.100.0/23",
+        "ip": "178.253.100.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ISP-190",
+        "description": "190 Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.102.0/24",
+        "ip": "178.253.102.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ISP-190",
+        "description": "190 Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.103.0/24",
+        "ip": "178.253.103.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ISP-190",
+        "description": "190 Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.104.0/22",
+        "ip": "178.253.104.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.108.0/23",
+        "ip": "178.253.108.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "178.253.110.0/23",
+        "ip": "178.253.110.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "178.253.64.0/18",
+          "ip": "178.253.64.0",
+          "cidr": 18,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.4.84.0/22",
+        "ip": "185.4.84.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20120925",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.4.84.0/22",
+          "ip": "185.4.84.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.19.124.0/23",
+        "ip": "185.19.124.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ZAD-20130221",
+        "description": "ABDStar and Bisher Alkassem",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.19.124.0/22",
+          "ip": "185.19.124.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.19.126.0/23",
+        "ip": "185.19.126.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "SY-ZAD-20130221",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.19.124.0/22",
+          "ip": "185.19.124.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.23.184.0/22",
+        "ip": "185.23.184.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-OMNIYA-20130411",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.23.184.0/22",
+          "ip": "185.23.184.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.52.232.0/22",
+        "ip": "185.52.232.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-RUNNET-20140402",
+        "description": "RUNNET LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.52.232.0/22",
+          "ip": "185.52.232.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.54.132.0/22",
+        "ip": "185.54.132.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INET-20140422",
+        "description": "Charif, Fakir & Co.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.54.132.0/22",
+          "ip": "185.54.132.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.75.224.0/22",
+        "ip": "185.75.224.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PHAROUN-20180220",
+        "description": "Pharoun LTD Co.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.75.224.0/22",
+          "ip": "185.75.224.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.84.48.0/22",
+        "ip": "185.84.48.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20150114",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.84.48.0/22",
+          "ip": "185.84.48.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.84.236.0/22",
+        "ip": "185.84.236.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-REEMISP-20150120",
+        "description": "Syrian Company for technical supply LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.84.236.0/22",
+          "ip": "185.84.236.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.90.248.0/22",
+        "ip": "185.90.248.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-YARANET-20180221",
+        "description": "YARA FOR COMMUNICATIONS LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.90.248.0/22",
+          "ip": "185.90.248.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.92.28.0/22",
+        "ip": "185.92.28.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20150317",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.92.28.0/22",
+          "ip": "185.92.28.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.92.88.0/22",
+        "ip": "185.92.88.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.92.88.0/22",
+          "ip": "185.92.88.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.96.108.0/22",
+        "ip": "185.96.108.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATECH1-20150416",
+        "description": "Syriatech JSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.96.108.0/22",
+          "ip": "185.96.108.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.110.104.0/22",
+        "ip": "185.110.104.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-REEMISP-20150723",
+        "description": "Syrian Company for technical supply LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.110.104.0/22",
+          "ip": "185.110.104.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.114.240.0/22",
+        "ip": "185.114.240.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-REEMISP-20150826",
+        "description": "Syrian Company for technical supply LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.114.240.0/22",
+          "ip": "185.114.240.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.121.184.0/22",
+        "ip": "185.121.184.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-LAZERNET-20151015",
+        "description": "Lazer Net Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.121.184.0/22",
+          "ip": "185.121.184.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.128.180.0/22",
+        "ip": "185.128.180.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ISP-NAS-20151126",
+        "description": "Tawasol Nas Communications and Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.128.180.0/22",
+          "ip": "185.128.180.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.134.132.0/22",
+        "ip": "185.134.132.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INTEGRATION-20160115",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.134.132.0/22",
+          "ip": "185.134.132.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.135.48.0/22",
+        "ip": "185.135.48.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-CONCURRENCE-20160120",
+        "description": "Concurrence L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.135.48.0/22",
+          "ip": "185.135.48.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.136.144.0/22",
+        "ip": "185.136.144.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL3G-20160201",
+        "description": "Syriatel Mobile Telecom",
+        "country_code": "LB",
+        "parent": {
+          "prefix": "185.136.144.0/22",
+          "ip": "185.136.144.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.145.236.0/22",
+        "ip": "185.145.236.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-WALID-20160405",
+        "description": "Walid Sawas Zen",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.145.236.0/22",
+          "ip": "185.145.236.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.146.136.0/22",
+        "ip": "185.146.136.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-REEMISP-20160408",
+        "description": "Syrian Company for technical supply LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.146.136.0/22",
+          "ip": "185.146.136.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.148.192.0/22",
+        "ip": "185.148.192.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ARNOUK-20160421",
+        "description": "Arnouk and Lady Partner Company Microsolutions",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.148.192.0/22",
+          "ip": "185.148.192.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.150.140.0/22",
+        "ip": "185.150.140.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ALNAQEL-20160503",
+        "description": "Alnakel Co. Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.150.140.0/22",
+          "ip": "185.150.140.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.151.80.0/22",
+        "ip": "185.151.80.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SCAN-20160509",
+        "description": "Sharif & Fakir LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.151.80.0/22",
+          "ip": "185.151.80.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.151.148.0/22",
+        "ip": "185.151.148.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-HYPERNET-20160511",
+        "description": "Hyper Technology L.L.C.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.151.148.0/22",
+          "ip": "185.151.148.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.154.248.0/22",
+        "ip": "185.154.248.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-MEDANI-20160606",
+        "description": "Mohamad Loay AL Medani",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.154.248.0/22",
+          "ip": "185.154.248.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.155.160.0/22",
+        "ip": "185.155.160.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAWA-20160609",
+        "description": "sawa",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.155.160.0/22",
+          "ip": "185.155.160.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.158.92.0/22",
+        "ip": "185.158.92.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-WAVES-20160704",
+        "description": "Waves Internet Service LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.158.92.0/22",
+          "ip": "185.158.92.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.162.164.0/22",
+        "ip": "185.162.164.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-YARA-20160809",
+        "description": "YARA FOR COMMUNICATIONS LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.162.164.0/22",
+          "ip": "185.162.164.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.163.216.0/22",
+        "ip": "185.163.216.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-REEMISP-20160817",
+        "description": "Syrian Company for technical supply LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.163.216.0/22",
+          "ip": "185.163.216.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.164.132.0/22",
+        "ip": "185.164.132.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-DUNIA-ISP-20160819",
+        "description": "Dunia Trading LLC.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.164.132.0/22",
+          "ip": "185.164.132.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.164.200.0/22",
+        "ip": "185.164.200.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-JAMAL-JUMAA-20160823",
+        "description": "Jamal Jumaa",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.164.200.0/22",
+          "ip": "185.164.200.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.164.248.0/22",
+        "ip": "185.164.248.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-NEWALMAWARD-20160823",
+        "description": "New Al Mawared LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.164.248.0/22",
+          "ip": "185.164.248.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.169.160.0/22",
+        "ip": "185.169.160.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-TERANET-20160926",
+        "description": "Roya telecommunication Co.Ltd.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.169.160.0/22",
+          "ip": "185.169.160.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.171.72.0/22",
+        "ip": "185.171.72.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-HYPERNET-20161005",
+        "description": "Hyper Technology L.L.C.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.171.72.0/22",
+          "ip": "185.171.72.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.172.72.0/22",
+        "ip": "185.172.72.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-REEMISP-20161010",
+        "description": "Syrian Company for technical supply LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.172.72.0/22",
+          "ip": "185.172.72.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.172.236.0/22",
+        "ip": "185.172.236.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ONECOME-20161013",
+        "description": "ONECOME Limited Labiality",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.172.236.0/22",
+          "ip": "185.172.236.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.173.172.0/22",
+        "ip": "185.173.172.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-HYPERNET-20161018",
+        "description": "Hyper Technology L.L.C.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.173.172.0/22",
+          "ip": "185.173.172.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.174.228.0/22",
+        "ip": "185.174.228.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INETISP-20161026",
+        "description": "Sharif & Fakir LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.174.228.0/22",
+          "ip": "185.174.228.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.174.236.0/22",
+        "ip": "185.174.236.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-TAKAMOL-20161026",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.174.236.0/22",
+          "ip": "185.174.236.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.175.52.0/22",
+        "ip": "185.175.52.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SCANISP-20161027",
+        "description": "Sharif & Fakir LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.175.52.0/22",
+          "ip": "185.175.52.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.178.148.0/22",
+        "ip": "185.178.148.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INTEGRATION-EPAY-20161121",
+        "description": "Integration for Electronic Payment L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.178.148.0/22",
+          "ip": "185.178.148.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.181.108.0/22",
+        "ip": "185.181.108.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PHARAOUN-20161209",
+        "description": "Pharoun LTD Co.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.181.108.0/22",
+          "ip": "185.181.108.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.184.104.0/22",
+        "ip": "185.184.104.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-IDEAL-20170103",
+        "description": "Ideal Solution Co. OSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.184.104.0/22",
+          "ip": "185.184.104.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.185.72.0/22",
+        "ip": "185.185.72.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ALALFEIH2-20170111",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.185.72.0/22",
+          "ip": "185.185.72.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.185.220.0/22",
+        "ip": "185.185.220.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "LB-OUBARI-20170116",
+        "description": "Oubari Lebanon LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.185.220.0/22",
+          "ip": "185.185.220.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.187.192.0/23",
+        "ip": "185.187.192.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "HINET-ADSL1",
+        "description": "HINET ADSL1",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.187.192.0/22",
+          "ip": "185.187.192.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.187.194.0/23",
+        "ip": "185.187.194.0",
+        "cidr": 23,
+        "roa_status": "None",
+        "name": "HINE-ADSL2",
+        "description": "HINE ADSL2",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.187.192.0/22",
+          "ip": "185.187.192.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.194.72.0/22",
+        "ip": "185.194.72.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-OMNIYAT-20170313",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.194.72.0/22",
+          "ip": "185.194.72.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.194.124.0/22",
+        "ip": "185.194.124.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PRONET-20170314",
+        "description": "Professionals Company for Communication Services and Technologies LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.194.124.0/22",
+          "ip": "185.194.124.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.196.140.0/22",
+        "ip": "185.196.140.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-MEDANIISP-20170327",
+        "description": "Mohamad Loay AL Medani",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.196.140.0/22",
+          "ip": "185.196.140.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.196.144.0/22",
+        "ip": "185.196.144.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAMAGROUP-20170327",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.196.144.0/22",
+          "ip": "185.196.144.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.197.20.0/22",
+        "ip": "185.197.20.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "AE-Z1-INTERNATIONALCOM-20170329",
+        "description": "Z1 international FZ-LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.197.20.0/22",
+          "ip": "185.197.20.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.198.172.0/22",
+        "ip": "185.198.172.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-OMNIYATY-20170410",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.198.172.0/22",
+          "ip": "185.198.172.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.199.244.0/22",
+        "ip": "185.199.244.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INETPROVIDER-20170420",
+        "description": "Sharif & Fakir LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.199.244.0/22",
+          "ip": "185.199.244.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.203.68.0/22",
+        "ip": "185.203.68.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-RAEDISSA-20170512",
+        "description": "Raed Ibrahim Issa",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.203.68.0/22",
+          "ip": "185.203.68.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.204.80.0/22",
+        "ip": "185.204.80.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PRONET-20170519",
+        "description": "Professionals Company for Communication Services and Technologies LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.204.80.0/22",
+          "ip": "185.204.80.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.204.88.0/22",
+        "ip": "185.204.88.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ALNAQEL-2-20170519",
+        "description": "Alnakel Co. Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.204.88.0/22",
+          "ip": "185.204.88.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.209.32.0/22",
+        "ip": "185.209.32.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-OMNIYAONE-20170619",
+        "description": "OMNIYA LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.209.32.0/22",
+          "ip": "185.209.32.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.209.200.0/22",
+        "ip": "185.209.200.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAMANETISP-20170622",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.209.200.0/22",
+          "ip": "185.209.200.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.216.132.0/22",
+        "ip": "185.216.132.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-NANS-20170807",
+        "description": "National Agency for Network Services",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.216.132.0/22",
+          "ip": "185.216.132.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.216.196.0/22",
+        "ip": "185.216.196.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-RAEDISSA1-20170808",
+        "description": "Raed Ibrahim Issa",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.216.196.0/22",
+          "ip": "185.216.196.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.217.172.0/22",
+        "ip": "185.217.172.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PRONET-20170816",
+        "description": "Professionals Company for Communication Services and Technologies LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.217.172.0/22",
+          "ip": "185.217.172.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.220.168.0/22",
+        "ip": "185.220.168.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ALALFEIH2-20170913",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.220.168.0/22",
+          "ip": "185.220.168.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.224.124.0/22",
+        "ip": "185.224.124.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-LAZER-20171009",
+        "description": "Lazer Net Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.224.124.0/22",
+          "ip": "185.224.124.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.225.40.0/22",
+        "ip": "185.225.40.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAMAWEB-20171012",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.225.40.0/22",
+          "ip": "185.225.40.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.227.140.0/22",
+        "ip": "185.227.140.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-INTEGRATIONISP-20171024",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.227.140.0/22",
+          "ip": "185.227.140.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.228.12.0/22",
+        "ip": "185.228.12.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PRONET-20171025",
+        "description": "Professionals Company for Communication Services and Technologies LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.228.12.0/22",
+          "ip": "185.228.12.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.231.44.0/22",
+        "ip": "185.231.44.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PRONET-20171109",
+        "description": "Professionals Company for Communication Services and Technologies LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.231.44.0/22",
+          "ip": "185.231.44.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.235.16.0/22",
+        "ip": "185.235.16.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-BETAKAT-20171201",
+        "description": "Bitakat Company LTD",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.235.16.0/22",
+          "ip": "185.235.16.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.235.24.0/22",
+        "ip": "185.235.24.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-YARAISP-20171201",
+        "description": "YARA FOR COMMUNICATIONS LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.235.24.0/22",
+          "ip": "185.235.24.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.236.100.0/22",
+        "ip": "185.236.100.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-TAKAMOLISP-20171211",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.236.100.0/22",
+          "ip": "185.236.100.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.244.204.0/22",
+        "ip": "185.244.204.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-IDEAL1-20180205",
+        "description": "Ideal Solution Co. OSC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.244.204.0/22",
+          "ip": "185.244.204.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.246.76.0/22",
+        "ip": "185.246.76.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-PRONET-20180215",
+        "description": "Professionals Company for Communication Services and Technologies LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.246.76.0/22",
+          "ip": "185.246.76.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.254.108.0/22",
+        "ip": "185.254.108.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-AL-MOBTAKIROON1-20180410",
+        "description": "Al-Mobtakiroon Al-Awael Co. Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.254.108.0/22",
+          "ip": "185.254.108.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "185.254.180.0/22",
+        "ip": "185.254.180.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-MILLENNIUM1-20180411",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "185.254.180.0/22",
+          "ip": "185.254.180.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.133.0.0/19",
+        "ip": "188.133.0.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "SY ISP TARASSUL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.133.0.0/17",
+          "ip": "188.133.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.133.32.0/19",
+        "ip": "188.133.32.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "SY ISP TARASSUL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.133.0.0/17",
+          "ip": "188.133.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.133.64.0/19",
+        "ip": "188.133.64.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "SY ISP TARASSUL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.133.0.0/17",
+          "ip": "188.133.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.133.96.0/19",
+        "ip": "188.133.96.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "SY ISP TARASSUL",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.133.0.0/17",
+          "ip": "188.133.0.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.139.128.0/18",
+        "ip": "188.139.128.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "GPRS Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.139.128.0/17",
+          "ip": "188.139.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.139.192.0/18",
+        "ip": "188.139.192.0",
+        "cidr": 18,
+        "roa_status": "None",
+        "name": "SY-SYRIATEL-MOBILE",
+        "description": "GPRS Syriatel Mobile Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.139.128.0/17",
+          "ip": "188.139.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.160.0.0/17",
+        "ip": "188.160.0.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-MTN-20090513",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.160.0.0/16",
+          "ip": "188.160.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.160.128.0/17",
+        "ip": "188.160.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-MTN-20090513",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.160.0.0/16",
+          "ip": "188.160.0.0",
+          "cidr": 16,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.229.128.0/17",
+        "ip": "188.229.128.0",
+        "cidr": 17,
+        "roa_status": "None",
+        "name": "SY-MTN-20110107",
+        "description": "MTN Syria",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.229.128.0/17",
+          "ip": "188.229.128.0",
+          "cidr": 17,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "188.247.0.0/19",
+        "ip": "188.247.0.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-TERANET-20090824",
+        "description": "Roya telecommunication Co.Ltd.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "188.247.0.0/19",
+          "ip": "188.247.0.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.17.188.0/22",
+        "ip": "193.17.188.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-TAKAMOL-ISP-20180424",
+        "description": "Integration for Trading L.L.C",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.17.188.0/22",
+          "ip": "193.17.188.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.43.140.0/24",
+        "ip": "193.43.140.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ALALFEIH2-20191114",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.43.140.0/24",
+          "ip": "193.43.140.0",
+          "cidr": 24,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.43.145.0/24",
+        "ip": "193.43.145.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ALALFEIH2-20191114",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.43.145.0/24",
+          "ip": "193.43.145.0",
+          "cidr": 24,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.43.149.0/24",
+        "ip": "193.43.149.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ALALFEIH2-20191114",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.43.149.0/24",
+          "ip": "193.43.149.0",
+          "cidr": 24,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.43.159.0/24",
+        "ip": "193.43.159.0",
+        "cidr": 24,
+        "roa_status": "None",
+        "name": "SY-ALALFEIH2-20191114",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.43.159.0/24",
+          "ip": "193.43.159.0",
+          "cidr": 24,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.124.160.0/20",
+        "ip": "193.124.160.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-19930901",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.124.160.0/21",
+          "ip": "193.124.160.0",
+          "cidr": 21,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "193.124.208.0/20",
+        "ip": "193.124.208.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ST-19930901",
+        "description": "Syrian Telecom",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "193.124.208.0/20",
+          "ip": "193.124.208.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "194.5.160.0/22",
+        "ip": "194.5.160.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-MILLENNIUM2-20180514",
+        "description": "Millennium Telecommunication Services LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "194.5.160.0/22",
+          "ip": "194.5.160.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "194.31.72.0/22",
+        "ip": "194.31.72.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-SAMAMOBILY-20180515",
+        "description": "SAMA GROUP LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "194.31.72.0/22",
+          "ip": "194.31.72.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "194.58.0.0/20",
+        "ip": "194.58.0.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ISP-TARASSUL",
+        "description": "Tarassul Inetnet Service Provider",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "194.58.0.0/20",
+          "ip": "194.58.0.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "194.61.124.0/22",
+        "ip": "194.61.124.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-ALNAQEL3-20180522",
+        "description": "Alnakel Co. Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "194.61.124.0/22",
+          "ip": "194.61.124.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "195.238.104.0/22",
+        "ip": "195.238.104.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "SY-BITAKAT-20180919",
+        "description": "Bitakat Company LTD",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "195.238.104.0/22",
+          "ip": "195.238.104.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "212.11.192.0/20",
+        "ip": "212.11.192.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "INET-ISP",
+        "description": "INET Internet Service Provider (INET)",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "212.11.192.0/19",
+          "ip": "212.11.192.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "212.11.208.0/21",
+        "ip": "212.11.208.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-INET-20080522",
+        "description": "Charif, Fakir & Co.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "212.11.192.0/19",
+          "ip": "212.11.192.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "212.11.216.0/21",
+        "ip": "212.11.216.0",
+        "cidr": 21,
+        "roa_status": "None",
+        "name": "SY-INET-20080522",
+        "description": "Charif, Fakir & Co.",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "212.11.192.0/19",
+          "ip": "212.11.192.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "212.107.20.0/22",
+        "ip": "212.107.20.0",
+        "cidr": 22,
+        "roa_status": "None",
+        "name": "AE-Z1INTERNATIONAL-20181102",
+        "description": "Z1 international FZ-LLC",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "212.107.20.0/22",
+          "ip": "212.107.20.0",
+          "cidr": 22,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "213.178.224.0/19",
+        "ip": "213.178.224.0",
+        "cidr": 19,
+        "roa_status": "None",
+        "name": "SY-SCS-NET-20030303",
+        "description": "Syrian Computer Society, scs",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "213.178.224.0/19",
+          "ip": "213.178.224.0",
+          "cidr": 19,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "217.20.208.0/20",
+        "ip": "217.20.208.0",
+        "cidr": 20,
+        "roa_status": "None",
+        "name": "SY-ZAD-20100607",
+        "description": "ZAD for the Services of Information & Technology Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "217.20.208.0/20",
+          "ip": "217.20.208.0",
+          "cidr": 20,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      }
+    ],
+    "ipv6_prefixes": [
+      {
+        "prefix": "2a03:8b60::/48",
+        "ip": "2a03:8b60::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:1::/48",
+        "ip": "2a03:8b60:1::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:2::/48",
+        "ip": "2a03:8b60:2::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:3::/48",
+        "ip": "2a03:8b60:3::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:4::/48",
+        "ip": "2a03:8b60:4::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:5::/48",
+        "ip": "2a03:8b60:5::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:6::/48",
+        "ip": "2a03:8b60:6::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      },
+      {
+        "prefix": "2a03:8b60:7::/48",
+        "ip": "2a03:8b60:7::",
+        "cidr": 48,
+        "roa_status": "None",
+        "name": "SY-IBACCO-20150317",
+        "description": "IBAA Ltd",
+        "country_code": "SY",
+        "parent": {
+          "prefix": "2a03:8b60::/32",
+          "ip": "2a03:8b60::",
+          "cidr": 32,
+          "rir_name": "RIPE",
+          "allocation_status": "unknown"
+        }
+      }
+    ]
+  },
+  "@meta": {
+    "time_zone": "UTC",
+    "api_version": 1,
+    "execution_time": "980.27 ms"
+  }
+}
